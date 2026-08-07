@@ -40,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
