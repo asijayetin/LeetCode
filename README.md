@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Hash Table
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
