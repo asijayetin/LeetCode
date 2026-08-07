@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/asijayetin/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1470-shuffle-the-array](https://github.com/asijayetin/LeetCode/tree/master/1470-shuffle-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
