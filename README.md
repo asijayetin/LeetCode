@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/asijayetin/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
+| [3842-toggle-light-bulbs](https://github.com/asijayetin/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/asijayetin/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Enumeration
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/asijayetin/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/asijayetin/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/asijayetin/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3842-toggle-light-bulbs](https://github.com/asijayetin/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/asijayetin/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/asijayetin/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Tree
 |  |
 | ------- |
