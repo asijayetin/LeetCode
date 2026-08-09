@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asijayetin/LeetCode/tree/master/0189-rotate-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/asijayetin/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/asijayetin/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/asijayetin/LeetCode/tree/master/0189-rotate-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asijayetin/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asijayetin/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
