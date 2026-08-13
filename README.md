@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/asijayetin/LeetCode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asijayetin/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Array
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/asijayetin/LeetCode/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/asijayetin/LeetCode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/asijayetin/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1646-get-maximum-in-generated-array](https://github.com/asijayetin/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
