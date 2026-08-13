@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/asijayetin/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/asijayetin/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
