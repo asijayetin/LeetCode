@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
+| [1528-shuffle-string](https://github.com/asijayetin/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/asijayetin/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/asijayetin/LeetCode/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/asijayetin/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1646-get-maximum-in-generated-array](https://github.com/asijayetin/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
