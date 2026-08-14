@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asijayetin/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/asijayetin/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asijayetin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asijayetin/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/asijayetin/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Divide and Conquer
 |  |
 | ------- |
