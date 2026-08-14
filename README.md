@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/asijayetin/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/asijayetin/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0654-maximum-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Depth-First Search
 |  |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/asijayetin/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/asijayetin/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0404-sum-of-left-leaves](https://github.com/asijayetin/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/asijayetin/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/asijayetin/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0654-maximum-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
