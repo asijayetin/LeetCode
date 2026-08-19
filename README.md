@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/asijayetin/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/asijayetin/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1470-shuffle-the-array](https://github.com/asijayetin/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
