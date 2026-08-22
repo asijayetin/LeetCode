@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asijayetin/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asijayetin/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
