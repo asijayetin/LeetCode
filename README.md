@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/asijayetin/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/asijayetin/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/asijayetin/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/asijayetin/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-get-maximum-in-generated-array](https://github.com/asijayetin/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/asijayetin/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/asijayetin/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asijayetin/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/asijayetin/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
