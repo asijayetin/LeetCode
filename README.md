@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/asijayetin/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/asijayetin/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/asijayetin/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/asijayetin/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/asijayetin/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/asijayetin/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -389,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/asijayetin/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/asijayetin/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
