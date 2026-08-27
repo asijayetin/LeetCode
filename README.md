@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/asijayetin/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/asijayetin/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/asijayetin/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/asijayetin/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/asijayetin/LeetCode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
