@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/asijayetin/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/asijayetin/LeetCode/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/asijayetin/LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/asijayetin/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/asijayetin/LeetCode/tree/master/0047-permutations-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/asijayetin/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/asijayetin/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/asijayetin/LeetCode/tree/master/0037-sudoku-solver) |
+| [0047-permutations-ii](https://github.com/asijayetin/LeetCode/tree/master/0047-permutations-ii) |
 ## Algorithm X
 |  |
 | ------- |
