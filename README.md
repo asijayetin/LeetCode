@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asijayetin/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asijayetin/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/asijayetin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/asijayetin/LeetCode/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/asijayetin/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/asijayetin/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/asijayetin/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/asijayetin/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
