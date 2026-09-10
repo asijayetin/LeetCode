@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/asijayetin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/asijayetin/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/asijayetin/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/asijayetin/LeetCode/tree/master/1046-last-stone-weight) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asijayetin/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/asijayetin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/asijayetin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0992-subarrays-with-k-different-integers](https://github.com/asijayetin/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/asijayetin/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/asijayetin/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asijayetin/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/asijayetin/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/asijayetin/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/asijayetin/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asijayetin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asijayetin/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
