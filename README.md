@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/asijayetin/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asijayetin/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asijayetin/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/asijayetin/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/asijayetin/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/asijayetin/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/asijayetin/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asijayetin/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asijayetin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
