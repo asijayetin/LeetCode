@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/asijayetin/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/asijayetin/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/asijayetin/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/asijayetin/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/asijayetin/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/asijayetin/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/asijayetin/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/asijayetin/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
