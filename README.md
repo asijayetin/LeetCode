@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asijayetin/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/asijayetin/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asijayetin/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/asijayetin/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/asijayetin/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/asijayetin/LeetCode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/asijayetin/LeetCode/tree/master/2236-root-equals-sum-of-children) |
