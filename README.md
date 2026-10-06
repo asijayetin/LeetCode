@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/asijayetin/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/asijayetin/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2706-buy-two-chocolates](https://github.com/asijayetin/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asijayetin/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/asijayetin/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asijayetin/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/asijayetin/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/asijayetin/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2706-buy-two-chocolates](https://github.com/asijayetin/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asijayetin/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asijayetin/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/asijayetin/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/asijayetin/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/asijayetin/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting Sort
 |  |
