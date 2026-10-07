@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/asijayetin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/asijayetin/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/asijayetin/LeetCode/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/asijayetin/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/asijayetin/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0844-backspace-string-compare](https://github.com/asijayetin/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/asijayetin/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/asijayetin/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/asijayetin/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asijayetin/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asijayetin/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
