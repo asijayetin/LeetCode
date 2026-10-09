@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/asijayetin/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/asijayetin/LeetCode/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asijayetin/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/asijayetin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asijayetin/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/asijayetin/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asijayetin/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/asijayetin/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/asijayetin/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/asijayetin/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asijayetin/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/asijayetin/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asijayetin/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asijayetin/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
