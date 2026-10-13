@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/asijayetin/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/asijayetin/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/asijayetin/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/asijayetin/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/asijayetin/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/asijayetin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/asijayetin/LeetCode/tree/master/1510-stone-game-iv) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/asijayetin/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Minimax
 |  |
 | ------- |
