@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/asijayetin/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/asijayetin/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/asijayetin/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/asijayetin/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/asijayetin/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/asijayetin/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/asijayetin/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -692,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/asijayetin/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/asijayetin/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
