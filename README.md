@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/asijayetin/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asijayetin/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/asijayetin/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/asijayetin/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asijayetin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/asijayetin/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asijayetin/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/asijayetin/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/asijayetin/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/asijayetin/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/asijayetin/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asijayetin/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asijayetin/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/asijayetin/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
