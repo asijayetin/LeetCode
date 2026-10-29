@@ -6,6 +6,8 @@ class Solution {
             for(j=0;j<nums2.length;j++){
                 if(nums1[i]==nums2[j]) break;
             }
+
+            
             Stack<Integer> st=new Stack<>();
             for(int k=nums2.length-1;k>=j;k--){
                 while(st.size()>0 && nums2[k]>=st.peek()) st.pop();
