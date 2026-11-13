@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/asijayetin/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/asijayetin/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/asijayetin/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/asijayetin/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2029-stone-game-ix](https://github.com/asijayetin/LeetCode/tree/master/2029-stone-game-ix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/asijayetin/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/asijayetin/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/asijayetin/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/asijayetin/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1748-sum-of-unique-elements](https://github.com/asijayetin/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/asijayetin/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/asijayetin/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/asijayetin/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/asijayetin/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/asijayetin/LeetCode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3903-smallest-stable-index-i](https://github.com/asijayetin/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/asijayetin/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
