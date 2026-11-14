@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/asijayetin/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/asijayetin/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/asijayetin/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0551-student-attendance-record-i](https://github.com/asijayetin/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/asijayetin/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/asijayetin/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/asijayetin/LeetCode/tree/master/0856-score-of-parentheses) |
