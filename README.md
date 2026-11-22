@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/asijayetin/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/asijayetin/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asijayetin/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/asijayetin/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/asijayetin/LeetCode/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/asijayetin/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/asijayetin/LeetCode/tree/master/2942-find-words-containing-character) |
