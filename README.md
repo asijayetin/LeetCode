@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/asijayetin/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/asijayetin/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/asijayetin/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/asijayetin/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/asijayetin/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/asijayetin/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/asijayetin/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/asijayetin/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asijayetin/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/asijayetin/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/asijayetin/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/asijayetin/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asijayetin/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/asijayetin/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/asijayetin/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/asijayetin/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/asijayetin/LeetCode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/asijayetin/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/asijayetin/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/asijayetin/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/asijayetin/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/asijayetin/LeetCode/tree/master/0200-number-of-islands) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/asijayetin/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/asijayetin/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/asijayetin/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/asijayetin/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/asijayetin/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
